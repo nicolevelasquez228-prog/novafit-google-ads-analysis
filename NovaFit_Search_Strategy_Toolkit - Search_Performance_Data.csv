@@ -1,0 +1,721 @@
+Date,Campaign_Type,Campaign,Ad_Group,Keyword,Match_Type,Impressions,Clicks,Cost_COP,Conversions,Quality_Score
+2026-07-12,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,435,44,$39.115,4,9
+2026-07-12,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,215,20,$21.774,2,10
+2026-07-12,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,77,11,$9.851,2,10
+2026-07-12,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,87,10,$9.331,1,8
+2026-07-12,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,59,5,$5.992,0,8
+2026-07-12,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,39,3,$3.291,0,8
+2026-07-12,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.205,43,$72.881,2,6
+2026-07-12,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,849,24,$48.964,1,7
+2026-07-12,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,297,11,$19.617,1,8
+2026-07-12,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.080,23,$40.574,1,6
+2026-07-12,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,459,9,$18.161,0,5
+2026-07-12,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,429,10,$18.640,0,6
+2026-07-12,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,781,31,$50.051,2,6
+2026-07-12,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,458,12,$24.725,0,7
+2026-07-12,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,282,11,$19.104,0,6
+2026-07-12,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,700,12,$27.016,0,5
+2026-07-12,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,483,12,$21.596,0,6
+2026-07-12,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,197,4,$8.060,0,6
+2026-07-12,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,155,2,$6.192,0,4
+2026-07-12,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,143,2,$5.995,0,3
+2026-07-12,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,76,0,$0,0,4
+2026-07-12,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,117,2,$5.860,0,3
+2026-07-12,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,128,1,$3.161,0,3
+2026-07-12,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,69,1,$3.221,0,4
+2026-07-13,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,719,74,$70.344,10,10
+2026-07-13,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,360,35,$39.909,3,10
+2026-07-13,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,109,15,$13.493,2,10
+2026-07-13,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,78,7,$6.511,0,9
+2026-07-13,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,68,7,$7.228,1,8
+2026-07-13,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,58,4,$4.523,0,8
+2026-07-13,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.552,55,$104.936,1,8
+2026-07-13,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.025,19,$38.388,1,7
+2026-07-13,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,576,20,$37.141,1,7
+2026-07-13,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.415,41,$79.439,1,7
+2026-07-13,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,851,21,$47.179,0,7
+2026-07-13,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,428,10,$18.269,0,6
+2026-07-13,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,871,33,$53.404,2,8
+2026-07-13,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,649,14,$24.473,1,6
+2026-07-13,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,317,10,$16.867,0,6
+2026-07-13,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.342,29,$61.764,1,5
+2026-07-13,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,466,11,$19.654,0,7
+2026-07-13,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,292,6,$14.027,0,6
+2026-07-13,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,287,4,$12.881,0,5
+2026-07-13,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,113,1,$3.046,0,5
+2026-07-13,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,84,1,$3.247,0,4
+2026-07-13,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,164,2,$6.309,0,3
+2026-07-13,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,101,1,$3.387,0,4
+2026-07-13,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,71,1,$2.790,0,4
+2026-07-14,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,476,49,$45.295,6,9
+2026-07-14,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,359,30,$30.578,4,9
+2026-07-14,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,130,14,$11.398,1,9
+2026-07-14,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,70,7,$6.763,1,10
+2026-07-14,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,53,5,$6.015,0,8
+2026-07-14,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,61,6,$6.812,0,8
+2026-07-14,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.328,43,$79.888,2,6
+2026-07-14,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,945,24,$46.337,1,5
+2026-07-14,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,474,18,$32.145,1,6
+2026-07-14,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.506,46,$94.616,1,6
+2026-07-14,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,783,17,$33.812,1,5
+2026-07-14,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,716,24,$48.424,1,6
+2026-07-14,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,912,41,$59.569,2,8
+2026-07-14,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,565,13,$23.845,1,5
+2026-07-14,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,315,10,$16.071,0,8
+2026-07-14,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,822,17,$33.378,0,5
+2026-07-14,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,417,11,$18.036,0,6
+2026-07-14,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,256,5,$10.610,0,5
+2026-07-14,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,313,3,$10.470,0,3
+2026-07-14,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,194,2,$6.197,0,3
+2026-07-14,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,142,1,$3.329,0,4
+2026-07-14,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,133,2,$6.003,0,5
+2026-07-14,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,105,1,$3.171,0,3
+2026-07-14,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,104,1,$3.016,0,3
+2026-07-15,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,466,58,$52.328,8,10
+2026-07-15,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,258,25,$27.829,3,9
+2026-07-15,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,99,13,$11.868,2,9
+2026-07-15,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,81,7,$7.020,1,8
+2026-07-15,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,72,5,$4.992,0,8
+2026-07-15,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,62,5,$5.388,1,9
+2026-07-15,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.213,38,$66.029,1,6
+2026-07-15,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,931,19,$38.344,0,6
+2026-07-15,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,350,14,$23.789,0,6
+2026-07-15,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.484,38,$72.008,1,6
+2026-07-15,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,647,12,$24.151,0,5
+2026-07-15,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,494,15,$29.985,0,6
+2026-07-15,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,887,38,$55.705,2,8
+2026-07-15,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,585,14,$28.601,1,7
+2026-07-15,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,295,12,$21.658,0,6
+2026-07-15,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,853,13,$25.408,0,6
+2026-07-15,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,610,17,$29.028,0,6
+2026-07-15,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,318,6,$12.286,0,5
+2026-07-15,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,300,3,$10.108,0,5
+2026-07-15,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,150,2,$6.411,0,3
+2026-07-15,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,122,1,$3.653,0,4
+2026-07-15,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,164,2,$6.313,0,5
+2026-07-15,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,134,2,$6.144,0,3
+2026-07-15,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,101,1,$2.768,0,5
+2026-07-16,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,610,56,$49.171,5,9
+2026-07-16,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,344,40,$37.907,4,10
+2026-07-16,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,96,11,$10.210,1,9
+2026-07-16,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,105,9,$9.519,1,9
+2026-07-16,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,67,5,$5.993,0,10
+2026-07-16,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,41,3,$3.190,0,8
+2026-07-16,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.431,42,$83.736,2,6
+2026-07-16,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.210,33,$69.322,1,6
+2026-07-16,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,461,17,$29.509,1,7
+2026-07-16,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.270,38,$70.098,1,7
+2026-07-16,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,579,13,$30.209,0,6
+2026-07-16,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,653,21,$40.544,1,7
+2026-07-16,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,719,28,$41.070,1,6
+2026-07-16,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,725,17,$29.810,1,7
+2026-07-16,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,305,13,$22.881,1,8
+2026-07-16,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,884,13,$28.449,0,6
+2026-07-16,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,511,13,$25.582,0,7
+2026-07-16,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,290,5,$9.767,0,5
+2026-07-16,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,317,4,$13.128,0,5
+2026-07-16,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,153,2,$5.914,0,5
+2026-07-16,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,138,1,$3.074,0,4
+2026-07-16,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,142,2,$5.665,0,5
+2026-07-16,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,140,2,$6.262,0,3
+2026-07-16,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,106,1,$3.049,0,3
+2026-07-17,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,628,58,$56.519,6,10
+2026-07-17,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,379,37,$37.860,4,10
+2026-07-17,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,101,15,$14.472,2,9
+2026-07-17,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,82,7,$6.243,1,10
+2026-07-17,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,54,4,$4.544,0,9
+2026-07-17,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,48,3,$3.565,0,8
+2026-07-17,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.469,49,$95.786,2,6
+2026-07-17,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.051,25,$48.745,1,7
+2026-07-17,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,371,11,$20.184,0,7
+2026-07-17,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,948,25,$48.537,1,6
+2026-07-17,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,651,14,$27.953,0,5
+2026-07-17,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,718,22,$38.698,1,7
+2026-07-17,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,1.064,44,$63.926,2,6
+2026-07-17,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,710,21,$39.509,1,6
+2026-07-17,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,340,14,$22.451,0,6
+2026-07-17,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,914,18,$34.571,0,6
+2026-07-17,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,454,13,$24.664,0,5
+2026-07-17,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,283,6,$13.381,0,6
+2026-07-17,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,331,4,$11.869,0,5
+2026-07-17,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,188,3,$8.293,0,4
+2026-07-17,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,119,1,$3.342,0,3
+2026-07-17,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,176,2,$5.678,0,5
+2026-07-17,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,172,2,$6.436,0,3
+2026-07-17,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,108,1,$2.803,0,5
+2026-07-18,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,565,70,$60.087,8,9
+2026-07-18,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,227,20,$20.406,2,10
+2026-07-18,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,87,10,$8.194,1,10
+2026-07-18,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,86,8,$7.633,1,9
+2026-07-18,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,52,5,$5.003,0,10
+2026-07-18,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,43,4,$4.570,0,9
+2026-07-18,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.679,57,$106.124,2,6
+2026-07-18,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,912,18,$41.385,1,6
+2026-07-18,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,303,9,$15.459,0,7
+2026-07-18,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,789,17,$30.210,1,6
+2026-07-18,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,514,13,$28.244,0,5
+2026-07-18,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,508,18,$33.712,1,7
+2026-07-18,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,672,30,$44.819,2,7
+2026-07-18,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,528,14,$24.663,0,6
+2026-07-18,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,269,10,$17.064,1,7
+2026-07-18,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,918,18,$38.959,0,6
+2026-07-18,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,343,9,$14.618,0,6
+2026-07-18,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,299,6,$11.936,0,6
+2026-07-18,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,267,4,$14.057,0,3
+2026-07-18,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,131,1,$3.327,0,4
+2026-07-18,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,69,0,$0,0,3
+2026-07-18,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,106,1,$3.164,0,5
+2026-07-18,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,124,1,$3.192,0,4
+2026-07-18,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,70,1,$2.799,0,4
+2026-07-19,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,371,44,$37.964,6,9
+2026-07-19,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,296,27,$30.034,3,10
+2026-07-19,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,86,12,$10.498,2,10
+2026-07-19,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,82,6,$5.380,1,8
+2026-07-19,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,46,4,$3.985,0,9
+2026-07-19,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,45,4,$4.143,0,9
+2026-07-19,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.401,46,$92.922,2,7
+2026-07-19,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,777,19,$37.752,0,7
+2026-07-19,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,289,10,$16.002,0,6
+2026-07-19,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,809,20,$37.603,0,5
+2026-07-19,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,463,8,$16.724,0,5
+2026-07-19,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,558,13,$23.915,0,7
+2026-07-19,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,746,34,$50.804,2,8
+2026-07-19,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,380,8,$13.780,0,6
+2026-07-19,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,222,7,$12.259,0,6
+2026-07-19,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,814,13,$25.309,0,5
+2026-07-19,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,485,11,$20.037,0,7
+2026-07-19,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,281,5,$10.502,0,5
+2026-07-19,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,183,2,$6.412,0,3
+2026-07-19,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,122,1,$3.204,0,5
+2026-07-19,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,80,0,$0,0,3
+2026-07-19,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,145,2,$5.797,0,4
+2026-07-19,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,131,1,$3.062,0,3
+2026-07-19,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,59,0,$0,0,4
+2026-07-20,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,686,88,$88.269,8,10
+2026-07-20,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,338,32,$33.393,3,10
+2026-07-20,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,145,18,$16.439,3,10
+2026-07-20,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,101,11,$11.264,1,10
+2026-07-20,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,57,5,$5.623,0,10
+2026-07-20,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,49,3,$3.128,0,8
+2026-07-20,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.941,52,$89.088,2,6
+2026-07-20,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.085,30,$60.037,1,5
+2026-07-20,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,552,21,$37.013,1,7
+2026-07-20,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.406,37,$68.844,1,6
+2026-07-20,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,772,14,$32.466,0,7
+2026-07-20,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,542,19,$35.943,1,8
+2026-07-20,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,992,34,$50.430,2,8
+2026-07-20,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,493,13,$26.595,0,7
+2026-07-20,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,361,15,$24.435,1,7
+2026-07-20,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,943,16,$35.459,0,5
+2026-07-20,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,588,18,$31.501,1,7
+2026-07-20,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,369,7,$16.109,0,6
+2026-07-20,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,252,3,$9.923,0,5
+2026-07-20,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,158,2,$6.474,0,3
+2026-07-20,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,116,1,$3.372,0,3
+2026-07-20,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,150,2,$6.512,0,4
+2026-07-20,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,102,1,$3.531,0,3
+2026-07-20,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,102,1,$2.708,0,5
+2026-07-21,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,705,84,$80.392,8,9
+2026-07-21,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,372,30,$29.009,4,10
+2026-07-21,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,129,20,$17.244,3,10
+2026-07-21,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,122,13,$12.754,2,10
+2026-07-21,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,59,5,$5.063,0,10
+2026-07-21,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,64,6,$7.240,1,8
+2026-07-21,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.953,62,$121.343,2,7
+2026-07-21,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.218,28,$55.923,1,5
+2026-07-21,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,389,14,$22.460,0,7
+2026-07-21,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.419,32,$63.262,1,5
+2026-07-21,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,596,10,$21.258,0,5
+2026-07-21,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,699,24,$41.670,1,7
+2026-07-21,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,928,43,$72.839,2,7
+2026-07-21,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,781,21,$41.754,1,7
+2026-07-21,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,296,10,$16.939,1,8
+2026-07-21,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.066,16,$32.897,0,5
+2026-07-21,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,504,16,$28.981,1,5
+2026-07-21,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,312,7,$14.780,0,5
+2026-07-21,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,210,2,$6.257,0,3
+2026-07-21,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,142,2,$6.597,0,5
+2026-07-21,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,91,1,$3.491,0,3
+2026-07-21,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,170,2,$6.581,0,3
+2026-07-21,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,168,2,$6.291,0,3
+2026-07-21,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,95,1,$3.023,0,5
+2026-07-22,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,674,90,$77.427,12,9
+2026-07-22,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,327,37,$37.432,4,10
+2026-07-22,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,89,13,$10.400,1,10
+2026-07-22,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,118,11,$9.880,1,10
+2026-07-22,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,63,5,$5.753,0,10
+2026-07-22,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,62,5,$5.352,0,9
+2026-07-22,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.537,47,$80.167,2,8
+2026-07-22,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.268,36,$82.702,1,7
+2026-07-22,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,384,11,$18.195,1,8
+2026-07-22,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.041,24,$44.529,1,5
+2026-07-22,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,722,16,$37.700,0,6
+2026-07-22,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,725,25,$50.448,1,6
+2026-07-22,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,1.019,35,$50.523,2,6
+2026-07-22,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,623,13,$24.806,1,6
+2026-07-22,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,389,16,$29.213,1,6
+2026-07-22,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.049,21,$44.057,0,5
+2026-07-22,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,609,17,$29.994,0,6
+2026-07-22,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,390,7,$13.779,0,6
+2026-07-22,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,214,2,$6.867,0,4
+2026-07-22,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,159,2,$6.054,0,3
+2026-07-22,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,139,1,$3.130,0,4
+2026-07-22,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,215,3,$8.766,0,5
+2026-07-22,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,158,2,$6.491,0,4
+2026-07-22,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,117,2,$6.328,0,3
+2026-07-23,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,490,45,$45.965,4,10
+2026-07-23,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,329,37,$39.917,4,10
+2026-07-23,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,99,13,$11.067,2,10
+2026-07-23,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,116,9,$9.068,1,9
+2026-07-23,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,78,6,$6.897,1,10
+2026-07-23,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,39,3,$3.744,0,8
+2026-07-23,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.407,47,$94.835,1,8
+2026-07-23,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,793,21,$42.551,1,6
+2026-07-23,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,413,13,$22.916,1,6
+2026-07-23,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.466,40,$84.212,1,5
+2026-07-23,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,706,12,$27.641,0,7
+2026-07-23,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,633,22,$43.161,1,8
+2026-07-23,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,981,33,$53.807,2,7
+2026-07-23,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,628,16,$28.121,1,6
+2026-07-23,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,313,11,$19.852,0,8
+2026-07-23,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.215,20,$40.892,0,5
+2026-07-23,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,488,14,$27.342,0,7
+2026-07-23,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,403,8,$16.493,0,6
+2026-07-23,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,230,2,$5.884,0,4
+2026-07-23,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,174,2,$6.037,0,3
+2026-07-23,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,113,1,$3.731,0,3
+2026-07-23,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,136,2,$6.304,0,5
+2026-07-23,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,118,1,$3.227,0,4
+2026-07-23,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,83,1,$3.240,0,4
+2026-07-24,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,478,46,$40.837,6,9
+2026-07-24,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,353,27,$28.658,3,9
+2026-07-24,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,134,16,$13.505,2,9
+2026-07-24,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,90,8,$7.231,1,10
+2026-07-24,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,57,6,$7.114,1,9
+2026-07-24,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,46,3,$3.472,0,8
+2026-07-24,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.554,38,$75.171,2,7
+2026-07-24,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,848,23,$47.656,1,6
+2026-07-24,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,395,13,$21.934,1,7
+2026-07-24,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.085,29,$52.228,1,7
+2026-07-24,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,980,21,$50.056,0,6
+2026-07-24,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,613,15,$29.051,0,6
+2026-07-24,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,1.199,50,$72.836,2,7
+2026-07-24,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,685,18,$31.625,1,6
+2026-07-24,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,405,14,$22.434,1,6
+2026-07-24,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.331,20,$39.035,1,5
+2026-07-24,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,496,11,$20.093,0,7
+2026-07-24,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,395,8,$17.757,0,5
+2026-07-24,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,278,4,$11.675,0,3
+2026-07-24,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,148,2,$6.707,0,5
+2026-07-24,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,131,1,$3.126,0,4
+2026-07-24,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,210,3,$10.002,0,4
+2026-07-24,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,132,2,$6.498,0,3
+2026-07-24,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,87,1,$2.884,0,5
+2026-07-25,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,594,69,$60.501,8,10
+2026-07-25,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,280,28,$31.909,2,10
+2026-07-25,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,85,12,$9.653,1,10
+2026-07-25,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,87,10,$10.262,1,9
+2026-07-25,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,51,5,$5.987,0,8
+2026-07-25,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,40,3,$3.123,0,8
+2026-07-25,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.395,41,$71.131,1,7
+2026-07-25,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,857,20,$43.569,0,6
+2026-07-25,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,451,13,$21.512,1,6
+2026-07-25,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.103,31,$60.199,1,6
+2026-07-25,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,462,11,$25.616,0,5
+2026-07-25,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,383,10,$19.028,0,8
+2026-07-25,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,644,25,$39.652,1,8
+2026-07-25,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,591,14,$28.980,1,5
+2026-07-25,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,279,9,$15.091,0,6
+2026-07-25,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.019,22,$48.143,0,5
+2026-07-25,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,465,12,$22.816,0,6
+2026-07-25,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,205,3,$6.143,0,5
+2026-07-25,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,227,3,$10.169,0,5
+2026-07-25,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,150,2,$5.734,0,3
+2026-07-25,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,82,1,$3.615,0,3
+2026-07-25,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,171,2,$6.041,0,3
+2026-07-25,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,134,1,$3.030,0,4
+2026-07-25,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,67,1,$3.161,0,4
+2026-07-26,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,383,50,$43.408,4,9
+2026-07-26,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,237,21,$24.106,2,9
+2026-07-26,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,88,10,$8.347,1,10
+2026-07-26,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,77,9,$8.752,1,9
+2026-07-26,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,62,4,$4.575,0,9
+2026-07-26,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,48,3,$3.173,0,9
+2026-07-26,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.646,59,$116.006,2,8
+2026-07-26,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,764,19,$41.653,1,5
+2026-07-26,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,343,13,$22.176,0,7
+2026-07-26,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.027,25,$47.107,1,6
+2026-07-26,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,761,17,$36.652,0,5
+2026-07-26,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,462,13,$23.784,0,7
+2026-07-26,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,904,37,$57.396,2,8
+2026-07-26,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,394,8,$15.693,0,5
+2026-07-26,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,268,11,$17.102,0,6
+2026-07-26,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.098,24,$54.111,0,6
+2026-07-26,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,413,11,$20.239,0,5
+2026-07-26,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,247,4,$7.966,0,5
+2026-07-26,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,264,3,$8.852,0,3
+2026-07-26,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,130,2,$6.662,0,5
+2026-07-26,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,75,0,$0,0,3
+2026-07-26,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,175,2,$5.947,0,5
+2026-07-26,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,118,1,$3.571,0,3
+2026-07-26,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,65,1,$2.686,0,3
+2026-07-27,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,472,61,$52.673,6,10
+2026-07-27,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,246,20,$22.192,1,9
+2026-07-27,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,108,16,$13.975,2,10
+2026-07-27,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,124,14,$13.086,1,8
+2026-07-27,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,67,4,$4.418,0,10
+2026-07-27,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,63,5,$6.308,0,8
+2026-07-27,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.860,60,$112.508,2,6
+2026-07-27,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.288,34,$69.191,1,7
+2026-07-27,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,544,16,$28.086,1,7
+2026-07-27,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.548,36,$70.528,1,6
+2026-07-27,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,892,20,$44.827,1,5
+2026-07-27,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,517,16,$30.963,1,6
+2026-07-27,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,994,43,$69.488,2,7
+2026-07-27,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,787,20,$38.038,1,6
+2026-07-27,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,421,15,$25.188,1,7
+2026-07-27,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.224,26,$50.356,1,6
+2026-07-27,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,403,10,$19.241,0,5
+2026-07-27,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,324,6,$12.211,0,6
+2026-07-27,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,258,3,$9.479,0,4
+2026-07-27,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,194,3,$9.971,0,3
+2026-07-27,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,151,2,$7.277,0,4
+2026-07-27,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,194,3,$9.208,0,3
+2026-07-27,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,146,1,$3.419,0,4
+2026-07-27,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,106,1,$3.073,0,5
+2026-07-28,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,773,75,$72.181,7,9
+2026-07-28,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,300,26,$26.469,2,9
+2026-07-28,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,136,17,$16.397,3,10
+2026-07-28,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,124,12,$12.049,1,10
+2026-07-28,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,52,4,$4.657,0,9
+2026-07-28,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,42,3,$3.260,0,8
+2026-07-28,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.283,34,$62.846,1,6
+2026-07-28,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.067,22,$43.262,1,5
+2026-07-28,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,401,16,$27.969,1,8
+2026-07-28,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.509,41,$85.743,1,7
+2026-07-28,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,802,19,$45.676,0,6
+2026-07-28,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,512,13,$25.951,0,6
+2026-07-28,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,821,35,$54.355,2,7
+2026-07-28,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,829,23,$40.830,1,7
+2026-07-28,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,352,15,$23.131,1,6
+2026-07-28,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.109,17,$37.721,0,5
+2026-07-28,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,501,11,$18.637,0,7
+2026-07-28,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,405,7,$15.455,0,6
+2026-07-28,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,218,2,$5.909,0,3
+2026-07-28,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,142,2,$6.368,0,4
+2026-07-28,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,125,1,$3.717,0,3
+2026-07-28,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,190,3,$8.872,0,3
+2026-07-28,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,172,2,$6.747,0,3
+2026-07-28,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,85,1,$2.964,0,5
+2026-07-29,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,769,92,$85.882,10,9
+2026-07-29,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,378,30,$29.917,4,9
+2026-07-29,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,144,19,$15.723,3,10
+2026-07-29,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,107,9,$8.175,1,10
+2026-07-29,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,78,7,$7.350,1,9
+2026-07-29,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,63,5,$5.805,0,9
+2026-07-29,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.683,59,$99.557,3,7
+2026-07-29,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.179,29,$66.177,1,7
+2026-07-29,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,506,18,$29.197,1,8
+2026-07-29,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.481,41,$87.614,1,6
+2026-07-29,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,805,18,$38.246,0,6
+2026-07-29,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,486,15,$29.971,0,6
+2026-07-29,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,1.137,38,$62.106,2,7
+2026-07-29,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,735,21,$42.763,1,7
+2026-07-29,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,389,13,$22.840,0,7
+2026-07-29,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.047,23,$48.921,0,5
+2026-07-29,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,640,14,$22.959,0,6
+2026-07-29,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,313,7,$13.856,0,5
+2026-07-29,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,310,4,$12.506,0,4
+2026-07-29,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,136,2,$5.634,0,5
+2026-07-29,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,113,1,$3.655,0,3
+2026-07-29,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,212,3,$9.420,0,5
+2026-07-29,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,138,2,$6.917,0,3
+2026-07-29,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,119,2,$5.357,0,3
+2026-07-30,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,723,96,$86.078,12,10
+2026-07-30,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,420,40,$38.118,5,9
+2026-07-30,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,119,12,$9.641,1,9
+2026-07-30,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,125,13,$13.159,1,9
+2026-07-30,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,57,4,$3.966,0,10
+2026-07-30,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,57,4,$4.563,0,9
+2026-07-30,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.496,52,$102.539,2,8
+2026-07-30,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.310,27,$56.415,1,7
+2026-07-30,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,535,20,$36.799,1,8
+2026-07-30,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.667,46,$98.402,1,6
+2026-07-30,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,842,16,$34.237,0,6
+2026-07-30,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,490,17,$30.591,1,8
+2026-07-30,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,1.138,52,$75.001,2,8
+2026-07-30,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,761,17,$33.364,1,7
+2026-07-30,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,450,20,$32.533,1,6
+2026-07-30,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,973,20,$41.749,0,5
+2026-07-30,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,614,15,$25.575,0,6
+2026-07-30,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,276,6,$11.743,0,6
+2026-07-30,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,320,4,$11.928,0,3
+2026-07-30,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,159,2,$5.720,0,4
+2026-07-30,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,143,1,$3.089,0,3
+2026-07-30,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,157,2,$6.246,0,3
+2026-07-30,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,138,1,$3.016,0,3
+2026-07-30,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,87,1,$3.235,0,3
+2026-07-31,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,663,72,$67.206,6,9
+2026-07-31,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,399,42,$40.571,3,10
+2026-07-31,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,156,20,$17.926,3,9
+2026-07-31,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,92,10,$9.938,1,10
+2026-07-31,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,75,7,$7.383,0,9
+2026-07-31,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,40,4,$4.340,0,9
+2026-07-31,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.340,33,$61.542,1,6
+2026-07-31,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.106,31,$60.669,1,6
+2026-07-31,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,439,18,$32.458,1,7
+2026-07-31,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.605,34,$65.040,1,5
+2026-07-31,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,913,22,$46.698,0,5
+2026-07-31,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,458,15,$28.502,1,8
+2026-07-31,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,1.181,43,$74.634,3,8
+2026-07-31,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,642,16,$30.516,0,5
+2026-07-31,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,395,15,$24.578,1,7
+2026-07-31,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.170,24,$52.901,0,6
+2026-07-31,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,667,18,$29.886,1,7
+2026-07-31,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,255,5,$11.213,0,6
+2026-07-31,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,252,3,$10.200,0,3
+2026-07-31,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,198,3,$9.842,0,4
+2026-07-31,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,115,1,$3.489,0,3
+2026-07-31,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,183,3,$9.342,0,3
+2026-07-31,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,181,2,$7.135,0,4
+2026-07-31,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,108,2,$5.388,0,4
+2026-08-01,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,519,48,$44.584,5,10
+2026-08-01,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,258,23,$23.199,2,9
+2026-08-01,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,107,12,$9.752,1,9
+2026-08-01,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,84,8,$8.333,1,9
+2026-08-01,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,47,3,$3.567,0,8
+2026-08-01,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,48,4,$4.140,0,9
+2026-08-01,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.123,36,$61.430,1,8
+2026-08-01,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.024,27,$57.514,1,6
+2026-08-01,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,408,16,$30.285,1,8
+2026-08-01,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.207,33,$68.639,1,6
+2026-08-01,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,539,10,$21.667,0,7
+2026-08-01,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,382,12,$23.389,0,6
+2026-08-01,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,826,32,$48.851,1,6
+2026-08-01,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,599,14,$27.779,1,5
+2026-08-01,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,319,10,$18.445,1,7
+2026-08-01,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.010,22,$45.683,0,5
+2026-08-01,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,363,11,$20.188,0,5
+2026-08-01,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,339,7,$15.941,0,6
+2026-08-01,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,172,2,$6.715,0,5
+2026-08-01,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,109,1,$2.891,0,5
+2026-08-01,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,98,1,$3.407,0,3
+2026-08-01,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,121,1,$3.384,0,4
+2026-08-01,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,120,1,$3.507,0,3
+2026-08-01,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,82,1,$2.852,0,5
+2026-08-02,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,440,59,$53.500,5,10
+2026-08-02,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,198,19,$21.268,2,10
+2026-08-02,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,73,7,$6.120,1,9
+2026-08-02,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,71,8,$7.360,1,10
+2026-08-02,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,63,5,$5.137,0,10
+2026-08-02,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,50,4,$4.663,0,9
+2026-08-02,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.582,42,$74.688,1,7
+2026-08-02,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,699,17,$36.710,0,6
+2026-08-02,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,460,18,$32.682,1,7
+2026-08-02,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.035,23,$45.074,1,7
+2026-08-02,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,802,15,$34.428,0,6
+2026-08-02,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,555,15,$30.367,1,8
+2026-08-02,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,603,26,$40.490,1,6
+2026-08-02,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,411,11,$19.466,0,5
+2026-08-02,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,217,6,$10.681,0,7
+2026-08-02,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,703,13,$25.757,0,6
+2026-08-02,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,441,11,$19.469,0,6
+2026-08-02,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,213,4,$7.798,0,6
+2026-08-02,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,184,2,$6.488,0,3
+2026-08-02,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,113,1,$2.764,0,4
+2026-08-02,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,96,1,$3.206,0,4
+2026-08-02,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,169,2,$6.613,0,5
+2026-08-02,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,145,1,$3.365,0,3
+2026-08-02,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,66,1,$3.230,0,3
+2026-08-03,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,720,76,$71.916,10,10
+2026-08-03,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,377,32,$30.478,2,9
+2026-08-03,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,120,16,$14.643,2,10
+2026-08-03,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,123,14,$14.725,1,9
+2026-08-03,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,83,8,$8.706,1,9
+2026-08-03,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,40,3,$3.782,0,9
+2026-08-03,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.834,51,$88.979,2,6
+2026-08-03,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.342,33,$74.064,1,6
+2026-08-03,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,558,23,$37.159,1,8
+2026-08-03,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.174,31,$57.651,1,7
+2026-08-03,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,1.005,23,$46.742,0,5
+2026-08-03,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,462,14,$26.024,0,6
+2026-08-03,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,886,35,$55.505,2,6
+2026-08-03,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,702,16,$32.432,0,7
+2026-08-03,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,282,11,$20.420,1,6
+2026-08-03,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.086,19,$37.884,0,6
+2026-08-03,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,586,15,$28.497,1,5
+2026-08-03,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,275,6,$12.311,0,6
+2026-08-03,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,286,3,$9.495,0,3
+2026-08-03,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,184,2,$5.693,0,5
+2026-08-03,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,115,1,$3.161,0,3
+2026-08-03,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,163,2,$6.391,0,4
+2026-08-03,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,135,1,$3.491,0,4
+2026-08-03,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,84,1,$3.164,0,3
+2026-08-04,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,624,74,$66.955,7,10
+2026-08-04,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,370,39,$41.115,3,9
+2026-08-04,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,130,20,$17.052,2,9
+2026-08-04,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,83,7,$6.741,1,10
+2026-08-04,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,85,7,$7.201,1,10
+2026-08-04,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,48,4,$4.443,0,9
+2026-08-04,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.716,48,$90.559,1,6
+2026-08-04,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.239,24,$50.879,1,7
+2026-08-04,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,462,14,$24.232,0,6
+2026-08-04,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.150,34,$63.068,1,6
+2026-08-04,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,979,21,$48.693,1,7
+2026-08-04,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,744,25,$46.023,1,7
+2026-08-04,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,1.106,47,$76.472,2,7
+2026-08-04,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,593,13,$23.324,0,6
+2026-08-04,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,378,12,$19.383,0,6
+2026-08-04,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.251,20,$40.750,1,6
+2026-08-04,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,502,11,$19.353,0,6
+2026-08-04,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,260,4,$8.399,0,6
+2026-08-04,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,236,2,$6.962,0,5
+2026-08-04,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,132,1,$2.958,0,5
+2026-08-04,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,144,1,$3.358,0,3
+2026-08-04,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,201,3,$9.504,0,5
+2026-08-04,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,108,1,$3.455,0,4
+2026-08-04,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,108,1,$2.663,0,4
+2026-08-05,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,469,43,$39.745,4,10
+2026-08-05,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,291,29,$31.040,2,10
+2026-08-05,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,150,23,$18.702,3,9
+2026-08-05,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,86,8,$8.258,1,9
+2026-08-05,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,81,6,$6.309,0,8
+2026-08-05,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,62,5,$5.373,0,9
+2026-08-05,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.705,57,$115.972,3,6
+2026-08-05,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.112,22,$43.022,1,7
+2026-08-05,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,620,17,$31.132,1,8
+2026-08-05,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.653,46,$84.757,2,7
+2026-08-05,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,964,18,$39.457,1,5
+2026-08-05,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,633,17,$30.715,1,8
+2026-08-05,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,932,34,$59.321,2,6
+2026-08-05,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,520,12,$24.209,0,6
+2026-08-05,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,428,16,$25.812,1,8
+2026-08-05,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.183,20,$39.237,1,6
+2026-08-05,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,432,14,$27.229,0,5
+2026-08-05,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,387,9,$19.166,0,5
+2026-08-05,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,315,4,$12.886,0,5
+2026-08-05,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,152,2,$5.562,0,3
+2026-08-05,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,131,1,$3.241,0,3
+2026-08-05,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,185,2,$6.579,0,5
+2026-08-05,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,121,1,$3.117,0,4
+2026-08-05,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,114,1,$3.062,0,4
+2026-08-06,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,555,57,$51.123,4,9
+2026-08-06,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,365,35,$37.191,3,10
+2026-08-06,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,127,20,$18.891,3,10
+2026-08-06,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,122,10,$10.754,1,9
+2026-08-06,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,78,6,$7.099,1,8
+2026-08-06,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,68,5,$5.405,0,9
+2026-08-06,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.471,38,$68.993,1,7
+2026-08-06,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.104,22,$42.252,1,5
+2026-08-06,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,369,14,$22.554,1,6
+2026-08-06,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.179,27,$57.899,1,5
+2026-08-06,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,630,13,$26.164,0,7
+2026-08-06,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,585,18,$33.184,0,6
+2026-08-06,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,889,37,$60.021,2,7
+2026-08-06,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,785,23,$39.435,1,5
+2026-08-06,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,394,12,$19.850,1,8
+2026-08-06,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.145,19,$40.488,0,6
+2026-08-06,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,618,20,$39.246,1,5
+2026-08-06,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,406,10,$21.376,0,5
+2026-08-06,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,309,3,$9.133,0,5
+2026-08-06,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,174,3,$9.222,0,5
+2026-08-06,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,109,1,$3.108,0,4
+2026-08-06,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,205,2,$6.657,0,4
+2026-08-06,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,174,2,$6.249,0,4
+2026-08-06,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,113,1,$3.139,0,3
+2026-08-07,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,803,106,$98.515,12,9
+2026-08-07,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,263,24,$25.950,2,9
+2026-08-07,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,108,12,$10.316,2,10
+2026-08-07,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,95,11,$10.802,1,8
+2026-08-07,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,64,5,$5.576,1,9
+2026-08-07,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,41,4,$4.648,0,8
+2026-08-07,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.694,47,$80.600,1,6
+2026-08-07,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,899,25,$53.528,1,5
+2026-08-07,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,411,16,$25.248,1,8
+2026-08-07,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.264,30,$58.526,1,6
+2026-08-07,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,959,22,$51.884,1,5
+2026-08-07,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,664,20,$36.410,1,7
+2026-08-07,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,1.027,37,$56.113,2,8
+2026-08-07,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,529,12,$23.550,0,6
+2026-08-07,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,347,11,$18.081,1,8
+2026-08-07,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.408,26,$58.446,1,6
+2026-08-07,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,617,15,$24.473,1,5
+2026-08-07,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,302,5,$11.265,0,5
+2026-08-07,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,255,3,$9.584,0,5
+2026-08-07,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,135,2,$6.029,0,3
+2026-08-07,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,148,1,$3.261,0,4
+2026-08-07,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,161,2,$6.713,0,4
+2026-08-07,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,150,2,$6.371,0,4
+2026-08-07,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,89,1,$2.805,0,4
+2026-08-08,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,623,62,$57.067,9,9
+2026-08-08,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,214,24,$24.978,3,10
+2026-08-08,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,85,10,$9.108,1,10
+2026-08-08,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,103,9,$9.354,1,8
+2026-08-08,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,60,4,$4.381,0,10
+2026-08-08,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,40,3,$3.788,0,9
+2026-08-08,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.316,39,$72.898,1,7
+2026-08-08,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,697,18,$39.850,1,7
+2026-08-08,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,364,13,$22.186,0,6
+2026-08-08,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,842,22,$42.869,1,7
+2026-08-08,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,638,13,$28.510,0,6
+2026-08-08,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,551,18,$36.537,1,7
+2026-08-08,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,755,26,$43.994,1,7
+2026-08-08,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,522,11,$19.238,0,7
+2026-08-08,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,260,8,$13.844,0,6
+2026-08-08,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,980,16,$34.448,0,5
+2026-08-08,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,420,9,$17.693,0,7
+2026-08-08,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,273,5,$11.702,0,5
+2026-08-08,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,219,2,$5.980,0,4
+2026-08-08,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,133,2,$6.172,0,5
+2026-08-08,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,98,1,$3.520,0,4
+2026-08-08,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,190,3,$9.982,0,5
+2026-08-08,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,142,1,$3.172,0,4
+2026-08-08,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,94,1,$2.754,0,5
+2026-08-09,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,647,67,$60.086,7,9
+2026-08-09,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,232,26,$28.452,3,9
+2026-08-09,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,98,12,$11.224,1,9
+2026-08-09,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,68,6,$6.108,1,10
+2026-08-09,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,50,3,$3.057,0,10
+2026-08-09,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,45,3,$3.560,0,8
+2026-08-09,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.325,40,$74.668,1,7
+2026-08-09,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,688,15,$33.958,1,7
+2026-08-09,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,445,16,$26.127,1,8
+2026-08-09,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.239,28,$51.804,1,6
+2026-08-09,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,574,12,$24.703,0,7
+2026-08-09,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,607,15,$30.946,0,7
+2026-08-09,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,690,33,$56.091,1,8
+2026-08-09,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,442,13,$22.247,1,5
+2026-08-09,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,258,11,$19.236,1,7
+2026-08-09,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.127,20,$37.234,1,6
+2026-08-09,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,500,15,$28.190,1,5
+2026-08-09,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,240,4,$8.071,0,6
+2026-08-09,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,171,2,$6.985,0,4
+2026-08-09,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,111,1,$2.790,0,5
+2026-08-09,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,81,0,$0,0,3
+2026-08-09,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,180,2,$6.533,0,3
+2026-08-09,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,95,1,$3.298,0,4
+2026-08-09,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,95,1,$2.868,0,3
+2026-08-10,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit,Exact,524,70,$65.226,6,9
+2026-08-10,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit colombia,Phrase,290,25,$23.707,2,10
+2026-08-10,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit tienda oficial,Phrase,157,25,$21.282,3,10
+2026-08-10,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit medellin,Phrase,79,7,$7.507,1,10
+2026-08-10,Brand,NovaFit - Brand,NovaFit Brand Terms,tienda novafit,Phrase,69,6,$6.676,0,8
+2026-08-10,Brand,NovaFit - Brand,NovaFit Brand Terms,novafit gimnasio,Phrase,52,4,$4.800,0,8
+2026-08-10,Category,NovaFit - Category,Leggings,leggings deportivos mujer,Phrase,1.732,59,$105.360,3,8
+2026-08-10,Category,NovaFit - Category,Leggings,leggings gimnasio,Broad,1.370,27,$51.138,1,6
+2026-08-10,Category,NovaFit - Category,Leggings,leggings compresion,Phrase,449,14,$26.872,1,6
+2026-08-10,Category,NovaFit - Category,Training Shoes,tenis para entrenar,Phrase,1.290,34,$69.408,1,7
+2026-08-10,Category,NovaFit - Category,Training Shoes,zapatillas training mujer,Broad,845,16,$33.656,0,5
+2026-08-10,Category,NovaFit - Category,Training Shoes,tenis crossfit,Phrase,718,18,$35.418,1,8
+2026-08-10,Category,NovaFit - Category,Gym Membership,membresia gimnasio medellin,Phrase,1.254,60,$99.920,3,8
+2026-08-10,Category,NovaFit - Category,Gym Membership,gimnasio mensualidad,Broad,570,15,$27.351,1,5
+2026-08-10,Category,NovaFit - Category,Gym Membership,plan gimnasio mensual,Phrase,314,12,$20.514,1,7
+2026-08-10,Category,NovaFit - Category,Supplements,proteina whey precio,Broad,1.410,29,$63.772,1,6
+2026-08-10,Category,NovaFit - Category,Supplements,suplementos gimnasio colombia,Phrase,617,18,$29.518,1,7
+2026-08-10,Category,NovaFit - Category,Supplements,batido proteina gimnasio,Broad,399,9,$19.780,0,5
+2026-08-10,Competitor,NovaFit - Competitor,FitZone,fitzone colombia,Phrase,366,6,$19.067,0,4
+2026-08-10,Competitor,NovaFit - Competitor,FitZone,fitzone medellin,Phrase,174,2,$5.960,0,5
+2026-08-10,Competitor,NovaFit - Competitor,FitZone,fitzone gimnasio precios,Broad,156,2,$7.394,0,4
+2026-08-10,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics tienda,Phrase,169,2,$6.344,0,3
+2026-08-10,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics ropa deportiva,Broad,119,1,$3.357,0,3
+2026-08-10,Competitor,NovaFit - Competitor,UrbanAthletics,urbanathletics colombia,Phrase,118,2,$6.483,0,3
