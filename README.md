@@ -103,7 +103,7 @@ Use CPA, conversion rate, CTR and CPC together when evaluating future campaign p
 
 ## Repository Contents
 
-- `novafit-google-ads-analysis.ipynb` — Google Colab notebook containing the data cleaning, analysis and findings.
+- `novafit-google-ads-analysis.ipynb` 
 
 ## Conclusion
 
